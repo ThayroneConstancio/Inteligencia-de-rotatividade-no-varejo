@@ -52,3 +52,10 @@ pip install streamlit pandas numpy scikit-learn
 
 3. Execute a aplicação Streamlit:
 streamlit run app.py
+
+💡 Insights de Negócio Gerados
+Janela Crítica de Inatividade: Constatou-se que clientes que atingem mais de 120 dias sem compras entram em zona crítica de churn, exigindo automação de disparos de campanhas no 90º dia.
+
+Foco em Valor (Monetário): O modelo permite priorizar campanhas de retenção baseadas no valor histórico do cliente, otimizando o orçamento de marketing.
+
+Desenvolvido por Thayrone Constâncio — Estudante de Ciência de Dados e Inteligência Artificial.
