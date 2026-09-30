@@ -35,6 +35,20 @@ No varejo moderno, reter clientes é significativamente mais lucrativo do que ad
 
 ## ⚙️ Como Executar o Projeto Localmente
 
-1. Clone o repositório:
+Para rodar este projeto em sua máquina, siga os passos abaixo:
+
+1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/ThayroneConstancio/retail-churn-intelligence.git](https://github.com/ThayroneConstancio/retail-churn-intelligence.git)
+
+   Entre na pasta do projeto:
+
+1. Entre na pasta do projeto:
+cd retail-churn-intelligence
+Instale as dependências necessárias:
+
+2. Instale as dependências necessárias:
+pip install streamlit pandas numpy scikit-learn
+
+3. Execute a aplicação Streamlit:
+streamlit run app.py
